@@ -1,3 +1,3 @@
 # hello-world
-Hello World Initial Test Repo
-Throwaway test only.
+--------------------------------
+Hello World Initial Test Repo.
